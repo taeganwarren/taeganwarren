@@ -6,4 +6,4 @@ Python, Node.js, Typescript, MongoDB, Redis, GraphQL, Express, React, and Docker
 Other languages and technologies I have experience with include:
 C#, C, C++, Java, JavaScript, PHP, SQL, HTML, CSS, Flutter, .NET framework, ASP.NET, MySQL, Microsoft Azure, and Google Cloud Platform/Firebase
 
-[Linkedin](https://www.linkedin.com/in/taeganwarren/)
+[taeganwarren.com](https://taeganwarren.com/)
