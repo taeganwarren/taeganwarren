@@ -6,7 +6,7 @@ Python, Node.js, Typescript, MongoDB, Express, React, Docker
 
 **What I'm learning**:
 
-Next.js, TailwindCSS, Redis, GraphQL
+Next.js, Chakra UI, Redis, GraphQL
 
 **What else I have experience with**:
 
