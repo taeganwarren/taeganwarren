@@ -1,9 +1,12 @@
 I am a recent graduate from Oregon State University with a Bachelor's degree in Computer Science focusing on web and mobile application development. I have experience in cyber security, system administration, DevOps, and full stack development.
 
-Current languages and technologies that I enjoy using or am learning are:
-Python, Node.js, Typescript, MongoDB, Redis, GraphQL, Express, React, and Docker
+**What I currently enjoy using**:
+Python, Node.js, Typescript, MongoDB, Express, React, Docker
 
-Other languages and technologies I have experience with include:
-C#, C, C++, Java, JavaScript, PHP, SQL, HTML, CSS, Flutter, .NET framework, ASP.NET, MySQL, Microsoft Azure, and Google Cloud Platform/Firebase
+**What I'm learning**:
+Next.js, TailwindCSS, Redis, GraphQL
+
+**What else I have experience with**:
+C#, C, C++, Java, JavaScript, PHP, SQL, HTML, CSS, Flutter, .NET framework/core, ASP.NET, Firebase, Azure, AWS, Google Cloud Platform
 
 [taeganwarren.com](https://taeganwarren.com/)
