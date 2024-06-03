@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taegan Warren</h1>
 <h3 align="center">A backend web developer in the United States.</h3>
 
-- 🔭 I’m currently working on **REST API's.**
-
-- 🌱 I’m currently learning **MERN stack** and **Golang.**
+- 🌱 I’m currently learning **TypeScript**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
